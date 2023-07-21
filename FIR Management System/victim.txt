@@ -1,0 +1,13 @@
+F102 |John|David|basvangudi|10:50|murder |yes|
+F103 |John|Mary|basvangudi|10:50|murder |yes|
+F104 |John|Mary|basvangudi|10:50|murder |yes|
+F105 |John|Mary|basvangudi|10:50|murder |yes|
+F201 |James|Smith|chamrajpete|12:50|Murder |yes|
+F202 |James|Smith|chamrajpete|12:50|Murder |yes|
+F301 |James|Smith|Shankarpuram|09:50|Vehicle lost |yes|
+F302 |James|Smith|Shankarpuram|09:50|Vehicle lost |yes|
+F401 |Robert|Clive|Jaynagar|09:50|Vehicle lost |yes|
+F402 |Robert|Clive|Jaynagar|09:50|Vehicle lost |yes|
+F403 |Robert|Clive|Jaynagar|09:50|Vehicle lost |yes|
+F501 |Sandhya|Sannidhi|Banashankari|10:50|Vehicle lost |yes|
+F502 |Sandhya|Sannidhi|Banashankari|10:50|Vehicle lost |yes|
