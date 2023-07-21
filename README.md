@@ -38,5 +38,5 @@ Screenshots
 <img src="https://github.com/7-Aishwarya/FIR-Management-System/assets/98330491/2b722a6e-3b61-4f34-bf12-887c7b53e576" >              
 <img src = "https://github.com/7-Aishwarya/CNS-Lab-Programs-VTU-5th-Sem-/assets/98330491/cdbc29ef-7286-4d14-bd88-6487d3f78a3c"  >
 <img src = "https://github.com/7-Aishwarya/FIR-Management-System/assets/98330491/226fed04-fe12-41fd-be6b-0b7705bbd022" >
-<img src = "https://github.com/7-Aishwarya/FIR-Management-System/assets/98330491/f126b10a-264d-4912-b9f6-45d6d18ac37a" >
+<img src = "https://github.com/7-Aishwarya/FIR-Management-System/assets/98330491/5874345d-65f8-4fcb-8da0-48e7a2e5512f " >
 <img src = "https://github.com/7-Aishwarya/FIR-Management-System/assets/98330491/2967c176-def8-401d-8975-a13d635d7241">
