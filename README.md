@@ -35,7 +35,8 @@ How to RUN the project:
 Screenshots
 <br>
 
-<img src="https://user-images.githubusercontent.com/89032469/183235077-5ef87fb8-fa61-416d-821a-9c5ccd452cec.png" >       
-<img src="https://user-images.githubusercontent.com/89032469/183235219-cd5b90ac-a42a-4fa1-8746-931ca1a0d0e3.jpg" >        
- <img src="https://user-images.githubusercontent.com/89032469/183235237-d8f93e04-7865-4668-9b0c-19003f8c213c.png" >
+<img src="https://github.com/7-Aishwarya/FIR-Management-System/assets/98330491/2b722a6e-3b61-4f34-bf12-887c7b53e576" >              
 <img src = "https://github.com/7-Aishwarya/CNS-Lab-Programs-VTU-5th-Sem-/assets/98330491/cdbc29ef-7286-4d14-bd88-6487d3f78a3c"  >
+<img src = "https://github.com/7-Aishwarya/FIR-Management-System/assets/98330491/226fed04-fe12-41fd-be6b-0b7705bbd022" >
+<img src = "https://github.com/7-Aishwarya/FIR-Management-System/assets/98330491/f126b10a-264d-4912-b9f6-45d6d18ac37a" >
+<img src = "https://github.com/7-Aishwarya/FIR-Management-System/assets/98330491/6d473a55-a167-49a9-9a1f-97220a24c3cf >
